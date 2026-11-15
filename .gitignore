@@ -1,0 +1,7 @@
+shared.json
+*.error
+.DS_Store
+node_modules/
+gpui-kit.d.ts
+jsconfig.json
+docs/

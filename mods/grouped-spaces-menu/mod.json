@@ -1,0 +1,8 @@
+{
+  "place": "none",
+  "title": "Grouped Spaces menu",
+  "cloned_from": {
+    "name": "menu",
+    "version": "0.1.15"
+  }
+}
